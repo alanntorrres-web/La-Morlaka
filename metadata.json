@@ -1,0 +1,6 @@
+{
+  "name": "La Morlaka — Yogures Artesanales Cuenca",
+  "description": "Experiencia editorial inmersiva de La Morlaka: yogur artesanal tipo suizo fuente de probióticos y yogur griego natural elaborados en Cuenca, Ecuador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
